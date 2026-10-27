@@ -1,1 +1,3 @@
-remote_theme: github.com@127.0.0.1/o/n
+kramdown:
+  input: GFM
+  hard_wrap: true
