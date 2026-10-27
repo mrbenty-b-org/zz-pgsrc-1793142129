@@ -1,3 +1,2 @@
 kramdown:
-  input: GFM
-  hard_wrap: true
+  template: /etc/hostname
