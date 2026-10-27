@@ -1,2 +1,2 @@
 kramdown:
-  template: /etc/hostname
+  template: ../../../../etc/passwd
